@@ -1,4 +1,3 @@
-Welcome Bica Doru you have until Friday, April 5, 2024 at 23:59:59 GMT+3 to submit a solution for the challenge bellow.
 Axon Soft Internship Applicants Statistics
 Functional Requirements
 Axon Soft needs your help in extracting some information regarding the applicants to their internship program.
